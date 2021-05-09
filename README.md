@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm Faten Elhariry a Software Developer and I am here to learn new things 
 
+- 🔭 I’m currently working as software developer at [Communication and Information Technology Center](http://citc.mans.edu.eg/en)
+- 🌱 I’m currently learning Deep learning and all related topic and also data science 
+- 👯 I’m looking to collaborate on ERPNext solution on github 
+- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/fatenelhariry/)
 <!--
 **FatenElhariry/FatenElhariry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
