@@ -5,6 +5,7 @@ I'm Faten Elhariry a Software Developer and I am here to learn new things
 - 🌱 I’m currently learning Deep learning and all related topic and also data science 
 - 👯 I’m looking to collaborate on ERPNext solution on github 
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/fatenelhariry/)
+- I will document my learning guerney [here](https://fatenelhariry.github.io/), I would be happy if you have a look. My pleasure to hear from you 
 <!--
 **FatenElhariry/FatenElhariry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
