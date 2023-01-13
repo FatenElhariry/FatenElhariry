@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Demos
+[using kafka with .net core 6](https://github.com/FatenElhariry/kafkaTrial)
