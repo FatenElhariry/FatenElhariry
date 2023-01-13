@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 
 ##### Demos
-[using kafka with .net core 6](https://github.com/FatenElhariry/kafkaTrial)
+  - [using kafka with .net core 6](https://github.com/FatenElhariry/kafkaTrial)
